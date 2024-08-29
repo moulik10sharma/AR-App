@@ -28,3 +28,6 @@
 
 - Ensure you have the Expo CLI installed and configured on your machine.
 - This project demonstrates basic user authentication and navigation using React Native, Expo, and SQLite.
+
+### Sample
+<img src='./assets/Home.jpeg' width="200" height="500">
