@@ -1,18 +1,4 @@
-# Login and Registration App
-
-This is a simplified Login and Registration application built with React Native, Expo, and SQLite. The app includes functionality for user authentication and navigation between screens.
-
-## Author: Khaoula's DEV Tutos
-## Date: 22 July 2024
-
-## Description:
-
-### Features
-
-- User registration with unique username
-- User login with password validation
-- Navigation between Login, Registration, and Home screens
-- Secure storage of user credentials using SQLite
+# AR App
 
 ### Technologies Used
 
